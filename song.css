@@ -1,0 +1,37 @@
+.liste{
+    margin-top: 5%;
+    width:auto;
+    text-align: center;
+}
+
+#alpha{
+    font-size:30px;
+    color: red;
+    text-align: center;
+}
+
+#song{
+    font-size: 25px;
+    text-align: left;
+    margin-left: 35%;
+    line-height: 1.8;
+}
+a:link {
+    color: none;
+}
+#chanteur{
+    color:black;
+    font-weight: bold;
+}
+#chanson{
+    color:black;
+}
+#color1{
+    color: blue;
+}
+#color2{
+    color: white;
+}
+#color3{
+    color: red;
+}
