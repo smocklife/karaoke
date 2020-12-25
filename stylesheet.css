@@ -23,7 +23,7 @@ body{
 .titre{
     text-align: center;
     padding: 1px;
-    font-size: 200%;
+    font-size: 40px;
     color: red;
     text-shadow: WHITE 5px 5px 5px ;
 }
@@ -31,7 +31,8 @@ body{
 
 .cat{
     background-color: burlywood;
-    margin-top: 5%;
+    margin-top: 50%;
+    margin-bottom: 50%;
     margin-left:10%;
     margin-right:10%;
     border: black solid 3px;
@@ -42,7 +43,7 @@ body{
     margin-left:46% ;
     margin-top: -1.5%;
     color:red;
-    font-size: 150%;
+    font-size: 30px;
     text-shadow: black 5px 5px 1px;
 }
 
@@ -58,12 +59,13 @@ a:link{
 .table>li{
     width:10%;
     margin-left: 45%;
-    margin-right: 25%;
-    margin-top: 1%;
-    padding-top: 1%;
+    margin-right:25%;
+    margin-top: 1.5%;
+    padding: 3%;
+    padding-right: 5%;
     border:1px solid black;
     border-radius: 5px;
-    font-size: 2vw;
+    font-size: 30px;
     color:red;
     text-align: center;
 }
