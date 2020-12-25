@@ -1,3 +1,4 @@
+-----------------------------------------fait
 -M- - Je dis aime
 113 - Au summum 	
 113 - Tonton Du Bled
@@ -58,7 +59,7 @@ Axelle Red - Sensualité [VIDEO]
 Aya Nakamura - Djadja
 Aya Nakamura - Jolie nana
 Aya Nakamura - Soldat
------------------------------------------ fait
+----------------------------------------- 
 Bandolero - Paris Latino
 BB Brunes - Coups et blessures
 BB Brunes - Dis-Moi
@@ -734,7 +735,7 @@ Téléphone - Cendrillon
 Téléphone - New York avec toi
 Téléphone - Ça c'est vraiment toi
 Téo Lavabo - Chipolata
---------------------------------------------------------------------
+-------------------------------------------------------------------- fait
 Vanessa Paradis & M - La Seine  Animation
 Vanessa Paradis - Joe le taxi
 VEGEDREAM - RAMENEZ LA COUPE A LA MAISON
@@ -746,7 +747,7 @@ Vianney - Pas là
 Véronique Jannot et Laurent Voulzy  Desir desir - nouvelle version
 Véronique Sanson - Chanson sur ma drole de vie
 Véronique Sanson et Vianney - Chanson sur ma drôle de vie
------------------------------------------------------------------
+----------------------------------------------------------------- fait
 Wazoo - La manivelle
 Wejdene - Anissa
 Wejdene - Coco
@@ -755,7 +756,7 @@ William Balde - Rayon de soleil
 Willy Denzey - Le Mur Du Son [VIDEO]
 Willy William - Ego
 Willy William feat. Keen'V - On s'endort [Clip Officiel]
---------------------------------------------------------------------
+--------------------------------------------------------------------fait
 Yannick - Ces soirees la
 Yannick Noah - Destination ailleurs
 Yannick Noah - Donne-moi une vie
@@ -766,11 +767,12 @@ Yelle - Je veux te voir [VIDEO]
 Yelle - À cause des garçons
 YVES LECOQ - ELLE JOUE DU PIPO COUCHEE
 Yves Montand - La bicyclette
-----------------------------------------------------------------------
-Zaz - Je veux
+----------------------------------------------------------------------fait
+Zaz - Je veux    
 Zaz - On ira
 Zaz - Tous les cris les SOS
 Zazie - Je suis un homme
 Zebda - Tomber La Chemise
 zouk machine - Maldon
 -------------------------------------------------------------------
+<span id="chanteur"> </span><span id="color2"> ----- </span><span id="chanson" > </span><br>
