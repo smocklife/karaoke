@@ -22,8 +22,8 @@ body{
 
 .titre{
     text-align: center;
-    padding: 1vw;
-    font-size: 40px;
+    padding: 1px;
+    font-size: 200%;
     color: red;
     text-shadow: WHITE 5px 5px 5px ;
 }
