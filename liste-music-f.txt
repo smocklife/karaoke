@@ -1,28 +1,3 @@
-
-Demis Roussos - On ecrit sur les murs
-Desireless - Voyage, voyage
-Dezil' - San Ou (La Rivière) [VIDEO]
-Diam's - DJ
-Diam's - Jeune demoiselle
-Diam's - La Boulette
-Dick RIVERS - J'ai pas la cote avec toi
-Dick Rivers - jericho
-Dick RIVERS - Maman n'aime pas ma musique
-Dick Rivers - Nice baie des anges
-Didier Bourdon - On peuplu rien dire
-Discobitch-c'est beau la bourgoisie
-DIVA FAUNE FT. LEA PACI - GET UP (French Edit)
-DJ Bobo - Chihuahua 2002
-Dj commander - Oui sergent
-DJ Zus vs Saint Mathieu _ Jesus Reviens
-Doc Gyneco - Ne ici
-Dolly - Je N'veux Pas Rester Sage [VIDEO]
-Dorothee - Allo allo monsieur l'ordinateur
-Dorothée - Hou la menteuse
-Dorothée - La valise
-Début De Soirée - La Vie La Nuit
-Début De Soirée - Nuit De Folie
------------------------------------------------------
 Eddy de Pretto - Fête de trop
 Eddy Mitchell - Couleur menthe à l'eau
 Eddy Mitchell - La Dernière Séance
@@ -557,4 +532,5 @@ Téléphone - Cendrillon
 Téléphone - New York avec toi
 Téléphone - Ça c'est vraiment toi
 Téo Lavabo - Chipolata
+-------------------------------------------------
 <span id="chanteur"> </span><span id="color2"> ----- </span><span id="chanson" > </span><br>
