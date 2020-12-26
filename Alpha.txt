@@ -1,0 +1,113 @@
+ <div id="alpha">0-9@!?
+                <br>
+                <br>
+                <div id="song">
+                    <span id="chanteur">je suis le chanteur</span> <span id="color1">--</span><span id="color2">__</span><span id="color3">--</span> <span id="chanson" >je suis la chanson</span>
+                </div>
+            </div>
+            <br>
+            <hr width="30%" color="white" >
+            <div id="alpha">A
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">B
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">C
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">D
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">E
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">F
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">G
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">H
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">I
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">J
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">K
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">L
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">M
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">N
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">O
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">P
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">Q
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">R
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">S
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">T
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">U
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">V
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">W
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">X
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">Y
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
+            <div id="alpha">Z
+                <div></div>
+            </div>
+            <hr width="30%" color="white" >
