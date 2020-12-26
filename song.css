@@ -1,25 +1,20 @@
-
-
 .Smenu{
-        height: 100%;
-        width: 3%;
-        font-size: 27px;
-        position: fixed;
-        display: inline-block;
-        border: 1px solid rgba(81, 255, 0, 0.329);
-        box-shadow: rgba(255, 255, 255, 0.596) 1px 50px 80px;
-        background-color: rgba(139, 136, 136, 0.301);
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-top: 80px;
-        margin-top: -70px;
-
-        
+    width: 100%;
+    font-size: 25px;
+    position: fixed;
+    display: inline-block;
+    border: 1px solid rgba(81, 255, 0, 0.329);
+    box-shadow: rgba(255, 255, 255, 0.596) 1px 50px 80px;
+    background-color: rgba(139, 136, 136, 0.301);
+    text-align: center;
+    padding: 5px;
+    margin-top: 1px;
 }
 .Smenu>a{
-    color:yellow;
-    margin:-1px;     
+color:yellow;
+margin:2px;     
 }
+
 
 
 
