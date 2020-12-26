@@ -22,10 +22,14 @@ body{
 
 .titre{
     text-align: center;
-    padding: 1px;
-    font-size: 30px;
+    padding: 5px;
+    font-size: 45px;
     color: red;
     text-shadow: WHITE 5px 5px 5px ;
+}
+
+.titre>a{
+    color: red;
 }
 
 
@@ -48,6 +52,7 @@ body{
 }
 a:link{
     text-decoration: none;
+    
   
 
 }
@@ -56,21 +61,28 @@ a:link{
     color: red;
 }
 .table>li{
-    width:10%;
-    margin-left: 35%;
-    margin-top: 1.5%;
+    width:auto;
+    margin-top:5%;
+    margin-right: 5%;
     padding: 3%;
-    padding-right: 15%;
-    border:1px solid black;
+    border:3px solid black;
     border-radius: 5px;
-    font-size: 30px;
-    color:red;
+    font-size: 25px;
     text-align: center;
+    color:red;
+    font-display: block;
 }
+
+#text>a{
+    color: red;
+}
+
+
 
 .table>li:hover{
     background-color:rgb(221, 175, 115) ;
     box-shadow: black 5px 5px 5px;
 }
+
 
 
