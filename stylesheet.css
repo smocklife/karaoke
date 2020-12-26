@@ -23,7 +23,7 @@ body{
 .titre{
     text-align: center;
     padding: 1px;
-    font-size: 40px;
+    font-size: 30px;
     color: red;
     text-shadow: WHITE 5px 5px 5px ;
 }
@@ -32,8 +32,8 @@ body{
 
 .cat{
     background-color: burlywood;
-    margin-top: 50%;
-    margin-bottom: 50%;
+    margin-top: 5%;
+    margin-bottom: 0%;
     margin-left:10%;
     margin-right:10%;
     border: black solid 3px;
