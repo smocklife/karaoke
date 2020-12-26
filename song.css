@@ -1,8 +1,30 @@
+
+
+.Smenu{
+        width: 100%;
+        font-size: 30px;
+        position: fixed;
+        border: 1px solid rgba(81, 255, 0, 0.329);
+        box-shadow: rgba(255, 255, 255, 0.596) 1px 50px 80px;
+        background-color: rgba(139, 136, 136, 0.301);
+        text-align: center;
+        padding: 10px;
+        margin-top: 2px;
+}
+.Smenu>a{
+    color:yellow;
+    margin:5px;    
+}
+
+
+
+
 .liste{
     margin-top: 5%;
     width:auto;
     text-align: center;
 }
+
 
 #alpha{
     font-size:20px;
