@@ -28,11 +28,13 @@ margin:2px;
 
 #alpha{
     font-size:20px;
-    color: red;
+    color:rgb(255, 166, 0);
+    text-shadow: black 1px 1px 1px;
     text-align: center;
 }
 
 #song{
+    text-shadow: none;
     font-size: 20px;
     text-align: center;
     line-height: 1.8;
@@ -47,12 +49,6 @@ a:link {
 #chanson{
     color:black;
 }
-#color1{
-    color: blue;
-}
 #color2{
     color: white;
-}
-#color3{
-    color: red;
 }
