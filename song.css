@@ -45,6 +45,7 @@ a:link {
 #chanteur{
     color:black;
     font-weight: bold;
+    text-shadow: green 1px 1px 2px;
 }
 #chanson{
     color:black;
