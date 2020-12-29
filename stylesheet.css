@@ -3,10 +3,7 @@ body{
     height:auto;
     margin-right:0%;
     margin-left: 0%;
-    background-image:url(partition.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: gray;
 }
 
 
