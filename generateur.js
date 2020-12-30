@@ -208,6 +208,9 @@ var anglais=["ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
 "£1 Fish Man - One Pound Fish - O-Fish-Al Video", ]
 
 var francais=[
+"Amel Bent & Imen Es - Jusqu'au bout",
+"Bigflo & Oli - Plus tard",
+"M. Pokora - S'en aller",
 "Christophe Mae - La vie dartiste",
 "Chritophe Maé feat Youssou N'Dour - L'ours",
 "Clara Lucciani - La baie",
