@@ -1,4 +1,6 @@
 .Smenu{
+    z-index: 1;
+    position: relative;
     width: 100%;
     font-size: 25px;
     position: fixed;
@@ -8,7 +10,7 @@
     background-color: rgba(139, 136, 136, 0.301);
     text-align: center;
     padding: 5px;
-    margin-top: 1px;
+    margin-top: -7%;
 }
 .Smenu>a{
 color:yellow;
