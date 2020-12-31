@@ -1,4 +1,8 @@
-var anglais=["ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
+var anglais=[
+"Depeche Mode - Enjoy The Silence",
+"Depeche Mode - Just can't get enough",
+"Depeche Mode - Personal Jesus",
+"ABBA - Gimme! Gimme! Gimme! (A Man After Midnight)",
 "ABBA - Mamma Mia",
 "ABBA - Money Money Money",
 "ABBA - Voulez Vous",
