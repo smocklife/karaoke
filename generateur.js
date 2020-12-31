@@ -212,6 +212,8 @@ var anglais=[
 "£1 Fish Man - One Pound Fish - O-Fish-Al Video", ]
 
 var francais=[
+"KYO - Je Cours",
+"Louane - Si t’étais là",
 "Amel Bent & Imen Es - Jusqu'au bout",
 "Bigflo & Oli - Plus tard",
 "M. Pokora - S'en aller",
